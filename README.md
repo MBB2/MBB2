@@ -6,6 +6,9 @@
 <p align="center">
   Full-Stack & Mobile Developer focused on practical products, clean interfaces, and solid backend systems.
 </p>
+<p align="center">
+  Based in Tunisia and building web and mobile apps with a practical, product-first mindset.
+</p>
 
 <p align="center">
   <a href="https://mbb2.github.io/portfolio/">
@@ -97,4 +100,3 @@ A mobile fitness product with workout tracking, exercise planning, and user-cent
 - Portfolio: https://mbb2.github.io/portfolio/
 - GitHub: https://github.com/mbb2
 - Email: khaled2182002@gmail.com
-
