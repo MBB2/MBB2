@@ -2,12 +2,12 @@
   <img src="./assets/profile-banner.svg" alt="Khaled Saadaoui - Full-Stack & Mobile Engineer" width="100%" />
 </p>
 
-<h1 align="center">Khaled Saadaoui</h1>
+<h1 align="center">Khaled Saadaoui — Full‑Stack & Mobile Engineer</h1>
 
 <p align="center">
-  <strong>Full-Stack & Mobile Engineer</strong><br/>
-  Building scalable web platforms, mobile apps, and backend systems for real users<br/>
-  <em>Available for full-time, internship, and contract roles in Germany & Europe</em>
+  <strong>Building production‑grade web platforms & cross‑platform mobile apps.</strong><br/>
+  Focus: scalable backends, delightful frontends, and high‑quality mobile UX.<br/>
+  <em>Open to roles across Germany & EU — remote or relocating.</em>
 </p>
 
 <p align="center">
@@ -24,180 +24,57 @@
 
 ---
 
-## 💼 Professional Summary
+## Quick pitch
 
-Full-stack engineer with **3+ years of development experience** building **production-ready web and mobile applications**. Specialized in **React & Angular frontends**, **Node.js & Spring Boot backends**, and **Flutter mobile development**. Proven ability to deliver complete features from API design through mobile/web UI, with emphasis on clean code, scalability, and user-focused design.
-
-**Seeking**: Full-stack and backend engineering roles in Germany, Austria, Switzerland, and broader EU markets.
+Senior‑minded Full‑Stack & Mobile Engineer (3+ years) with hands‑on experience shipping React, Angular, Node.js, Spring Boot backends and cross‑platform mobile apps (Flutter / React Native). I design and build production systems with clear APIs, reliable data layers, and performant user interfaces.
 
 ---
 
-## 🏗️ Core Technical Expertise
+## Selected projects (for recruiters — 10s read)
 
-### Frontend Development
-**React** • **Angular** • **TypeScript** • **JavaScript** • **HTML5/CSS3** • **Responsive Design** • **Tailwind CSS** • **State Management** • **Async Patterns**
+- **PFE — German Language Learning Mobile App** (Flagship)
+  - Cross‑platform mobile app + backend, voice tutoring, adaptive practice, multi‑language content. Tech: Flutter, TypeScript, Express, PostgreSQL. https://github.com/MBB2/PFE
 
-### Backend Development  
-**Node.js** • **Express.js** • **Spring Boot** • **Java/JEE** • **RESTful APIs** • **Microservices** • **Authentication (JWT)** • **Database Design** • **Server Architecture**
+- **portfolio — Personal Website (Live)**
+  - Professional single‑page portfolio with demos and deployment on GitHub Pages. Live: https://mbb2.github.io/portfolio/ https://github.com/MBB2/portfolio
 
-### Mobile Development
-**Flutter** • **Dart** • **React Native** • **Expo** • **Mobile-First UX** • **Native Integration**
+- **Ebook / ebookApp — Cross‑platform E‑book Reader**
+  - Offline reading, persistence, and reusable UI components. Tech: React Native / Expo, SQLite. https://github.com/MBB2/Ebook
 
-### Data & Infrastructure
-**PostgreSQL** • **MySQL** • **MongoDB** • **Elasticsearch** • **Docker** • **Docker Compose** • **Linux** • **Git** • **CI/CD Basics**
-
-### Tools & Practices
-**Postman** • **Swagger/OpenAPI** • **Vite** • **Webpack** • **JUnit** • **Selenium** • **Testing Strategies** • **Clean Code** • **SOLID Principles** • **Performance Optimization**
+- **GestionFormation — Training & QR Menu System**
+  - Full‑stack restaurant/management platform with role‑based access and real‑time UI. Tech: React, Express, MySQL. https://github.com/MBB2/GestionFormation
 
 ---
 
-## 🚀 Featured Projects
+## Core technologies
 
-### 1️⃣ [German Language Learning Mobile App](https://github.com/MBB2/PFE)
-**The Project**: Comprehensive mobile learning platform for Tunisian learners advancing from A1 to B2 German proficiency. Features adaptive practice algorithms, voice-based interaction, Derja dialect support, and personalized progression tracking.
+Frontend: React, Angular, TypeScript
 
-**My Role**: Full-stack developer — architected the backend API, built Flutter mobile UI, integrated voice processing, and implemented adaptive learning algorithms.
+Backend: Node.js, Express, Java (Spring Boot), PostgreSQL
 
-**Technical Stack**: Flutter • TypeScript • Express.js • PostgreSQL • Voice API Integration  
-**Key Achievements**:
-- Designed scalable backend architecture handling multi-language content
-- Built intuitive mobile UI with 100+ screens and complex state management
-- Implemented adaptive learning algorithms increasing user retention
-- Production-ready code with proper error handling and logging
+Mobile: Flutter, React Native (Expo)
 
-**Status**: **⭐ FLAGSHIP PROJECT** — Demonstrates full-stack mastery and product thinking.
+Tools: Docker, Git, CI/CD basics, REST/OpenAPI
 
 ---
 
-### 2️⃣ [Training Management & QR Menu System](https://github.com/MBB2/GestionFormation)
-**The Project**: Complete restaurant management platform with dynamic QR menu generation, staff workflow orchestration, table management, and multi-role dashboards (Admin, Chef, Waiter).
+## What I bring
 
-**My Role**: Full-stack architect and lead developer — built React frontend with real-time UI updates, REST API backend, and role-based access control.
-
-**Technical Stack**: React • TypeScript • Express.js • MySQL • Tailwind CSS • Axios • React Router  
-**Key Achievements**:
-- Architected role-based access control system
-- Developed real-time table management dashboard
-- Built responsive UI with Tailwind CSS and Lucide icons
-- Integrated dynamic form validation and error handling
-
-**Status**: **⭐ PRODUCTION-GRADE** — Shows full-stack capability and attention to UX.
+- Production focus: testing, error handling, logging, and deployable code
+- Product thinking: feature design with UX and performance in mind
+- Collaboration: clear communication, code reviews, and mentoring
+- Languages: English (fluent), French (fluent), Arabic (native), German (learning)
 
 ---
 
-### 3️⃣ [E-Book Management & Discovery Platform](https://github.com/MBB2/Ebook)
-**The Project**: Cross-platform e-book discovery, reading, and management application with offline support, local storage, and seamless reading experience.
+## How to reach me
 
-**My Role**: Lead developer — built navigation architecture, reading interface, and integrated local persistence layer across iOS, Android, and web.
-
-**Technical Stack**: React Native • Expo • TypeScript • SQLite • Async Storage  
-**Key Achievements**:
-- Architected cross-platform app structure using Expo Router
-- Implemented offline-first reading experience with SQLite persistence
-- Built reusable component library for consistent UX
-- Optimized performance for smooth scrolling through large books
-
-**Status**: **⭐ CROSS-PLATFORM** — Demonstrates React Native and Expo expertise.
-
----
-
-### 4️⃣ [Portfolio Website](https://github.com/MBB2/portfolio)
-**The Project**: Professional portfolio website showcasing full-stack and mobile projects with responsive design, project filtering, and optimized performance.
-
-**My Role**: Solo developer — designed and built from concept through deployment on GitHub Pages.
-
-**Technical Stack**: HTML5 • CSS3 • Vanilla JavaScript • Responsive Design • GitHub Pages  
-**Key Achievements**:
-- Responsive design supporting all device sizes
-- Interactive project filtering and smooth animations
-- Optimized performance and SEO
-- Live deployment at https://mbb2.github.io/portfolio/
-
-**Status**: **✅ LIVE** — Direct portfolio link for recruiters.
-
----
-
-## 📊 GitHub Overview
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=mbb2&show_icons=true&hide_border=true&bg_color=00000000&title_color=22C55E&text_color=CBD5E1&icon_color=38BDF8&include_all_commits=true&hide=prs"
-    height="165"
-    alt="GitHub contribution statistics"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbb2&layout=compact&hide_border=true&bg_color=00000000&title_color=22C55E&text_color=CBD5E1"
-    height="165"
-    alt="Most used programming languages"
-  />
-</p>
-
----
-
-## 🎯 Current Focus & Growth Areas
-
-- **Backend Architecture**: Building REST APIs with proper separation of concerns and scalability patterns
-- **Production Readiness**: Clean code, comprehensive error handling, logging, and monitoring
-- **Full-Stack Ownership**: Delivering complete features from API design through deployment
-- **System Design**: Microservices concepts, caching strategies, and database optimization
-- **European Tech Stack Alignment**: Mastering industry-standard tools in German and EU markets
-
----
-
-## 💡 Professional Values
-
-✅ **Code Quality**: I write clean, maintainable, well-documented code following SOLID principles  
-✅ **User-Focused**: Features are designed with actual user workflows and usability in mind  
-✅ **Problem Solving**: I think critically about system design and not just implement requirements  
-✅ **Continuous Learning**: Actively growing in backend architecture, system design, and modern tooling  
-✅ **Collaborative**: I communicate clearly, seek feedback, and work well in team environments  
-
----
-
-## 🔗 Connect & Explore
-
-| Link | Purpose |
-|------|---------|
-| 🌐 **[Live Portfolio](https://mbb2.github.io/portfolio/)** | See all projects with live demos and descriptions |
-| 💼 **[LinkedIn](https://linkedin.com/in/khaled-saadaoui/)** | Professional network and endorsements |
-| 📧 **[Email](mailto:khaled2182002@gmail.com)** | khaled2182002@gmail.com |
-| 📍 **Location** | Rades, Tunisia • **Open to**: Remote, Germany, Austria, Switzerland, EU |
-| 📱 **Phone** | +216 93 585 045 |
-
----
-
-## 🎓 Background
-
-- **Master's Degree**: Mobile Development (in progress)
-- **Academic Focus**: Mobile architecture, user-centered design, full-stack systems
-- **Industry Experience**: Internships and freelance projects in full-stack development
-- **Self-Taught**: Continuous learning through documentation, open-source contributions, and practical projects
-
----
-
-## 📌 Quick Facts
-
-- **Primary Languages**: JavaScript/TypeScript, Dart, Java, PHP
-- **Preferred Frameworks**: React, Angular, Flutter, Spring Boot, Express.js
-- **Database Experience**: PostgreSQL (primary), MySQL, MongoDB, SQLite
-- **Deployment**: GitHub Pages, local Docker environments, basic DevOps
-- **Development Philosophy**: Ship quality code, not just code that works
-- **Communication**: English (fluent), French (fluent), German (learning), Arabic (native)
-
----
-
-## 🤝 Open to Opportunities
-
-I'm actively seeking:
-- ✅ Full-stack engineering roles (mid-level)
-- ✅ Backend-focused positions
-- ✅ Internships at growth-stage companies
-- ✅ Contract/freelance projects (EU time zones preferred)
-
-**Ideal companies**: Tech-forward organizations in Germany, Switzerland, Austria, Netherlands, and broader EU with focus on code quality, product thinking, and team growth.
+- Portfolio: https://mbb2.github.io/portfolio/
+- LinkedIn: https://linkedin.com/in/khaled-saadaoui/
+- Email: khaled2182002@gmail.com
 
 ---
 
 <p align="center">
-  <em>Last Updated: January 2025 • Always looking to improve and grow • Let's build something great together!</em>
+  <em>Profile last updated: July 2026 — actively looking for full‑time & contract opportunities in Germany & Europe.</em>
 </p>
