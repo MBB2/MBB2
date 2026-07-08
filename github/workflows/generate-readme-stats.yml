@@ -1,0 +1,37 @@
+name: Generate README stats
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch: {}
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Create output directory
+        run: mkdir -p assets/readme-stats
+
+      - name: Download GitHub readme stats SVGs
+        env:
+          STATS_URL: "https://github-readme-stats.vercel.app/api?username=MBB2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+          TOP_LANGS_URL: "https://github-readme-stats.vercel.app/api/top-langs/?username=MBB2&layout=compact&theme=tokyonight&hide_border=true"
+        run: |
+          curl -sSL "$STATS_URL" -o assets/readme-stats/stats.svg
+          curl -sSL "$TOP_LANGS_URL" -o assets/readme-stats/top-langs.svg
+
+      - name: Commit and push generated SVGs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/readme-stats/*.svg || true
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore(readme): update generated GitHub stats SVGs"
+            git push
+          fi
