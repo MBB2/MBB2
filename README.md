@@ -1,102 +1,203 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="Khaled Saadaoui GitHub profile banner" width="100%" />
+  <img src="./assets/profile-banner.svg" alt="Khaled Saadaoui - Full-Stack & Mobile Engineer" width="100%" />
 </p>
 
 <h1 align="center">Khaled Saadaoui</h1>
+
 <p align="center">
-  Full-Stack & Mobile Developer focused on practical products, clean interfaces, and solid backend systems.
-</p>
-<p align="center">
-  Based in Tunisia and building web and mobile apps with a practical, product-first mindset.
+  <strong>Full-Stack & Mobile Engineer</strong><br/>
+  Building scalable web platforms, mobile apps, and backend systems for real users<br/>
+  <em>Available for full-time, internship, and contract roles in Germany & Europe</em>
 </p>
 
 <p align="center">
-  <a href="https://mbb2.github.io/portfolio/">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Live%20Site-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <a href="https://mbb2.github.io/portfolio/" target="_blank">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Live_Site-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="mailto:khaled2182002@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-khaled2182002%40gmail.com-1F2937?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img alt="Email" src="https://img.shields.io/badge/Email-Contact_Me-1F2937?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <img alt="Location" src="https://img.shields.io/badge/Location-Rades%2C%20Tunisia-0B1324?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <a href="https://linkedin.com/in/khaled-saadaoui/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
-## Overview
+---
 
-I build web and mobile applications with a strong focus on usability, real-world workflows, and maintainable architecture. My projects span full-stack web platforms, mobile apps, and backend-driven systems for learning, e-commerce, restaurant management, and log analysis.
+## 💼 Professional Summary
 
-- Master's student in Mobile Development
-- Building with Angular, React, Node.js, Express.js, Flutter, and modern backend tools
-- Interested in mobile apps, full-stack systems, and product-focused engineering
-- Open to internships, junior roles, and freelance opportunities
+Full-stack engineer with **3+ years of development experience** building **production-ready web and mobile applications**. Specialized in **React & Angular frontends**, **Node.js & Spring Boot backends**, and **Flutter mobile development**. Proven ability to deliver complete features from API design through mobile/web UI, with emphasis on clean code, scalability, and user-focused design.
 
-## Tech Stack
+**Seeking**: Full-stack and backend engineering roles in Germany, Austria, Switzerland, and broader EU markets.
 
-### Frontend
+---
 
-`Angular` `React` `JavaScript` `TypeScript` `HTML` `CSS`
+## 🏗️ Core Technical Expertise
 
-### Backend
+### Frontend Development
+**React** • **Angular** • **TypeScript** • **JavaScript** • **HTML5/CSS3** • **Responsive Design** • **Tailwind CSS** • **State Management** • **Async Patterns**
 
-`Node.js` `Express.js` `Java/JEE` `Spring Boot` `PHP`
+### Backend Development  
+**Node.js** • **Express.js** • **Spring Boot** • **Java/JEE** • **RESTful APIs** • **Microservices** • **Authentication (JWT)** • **Database Design** • **Server Architecture**
 
-### Mobile
+### Mobile Development
+**Flutter** • **Dart** • **React Native** • **Expo** • **Mobile-First UX** • **Native Integration**
 
-`Flutter` `Dart` `React Native`
+### Data & Infrastructure
+**PostgreSQL** • **MySQL** • **MongoDB** • **Elasticsearch** • **Docker** • **Docker Compose** • **Linux** • **Git** • **CI/CD Basics**
 
-### Data & Infra
+### Tools & Practices
+**Postman** • **Swagger/OpenAPI** • **Vite** • **Webpack** • **JUnit** • **Selenium** • **Testing Strategies** • **Clean Code** • **SOLID Principles** • **Performance Optimization**
 
-`MySQL` `PostgreSQL` `MongoDB` `Elasticsearch` `Docker` `JWT`
+---
 
-### Tools
+## 🚀 Featured Projects
 
-`Git` `Swagger` `JUnit` `Selenium` `Linux` `Postman`
+### 1️⃣ [German Language Learning Mobile App](https://github.com/MBB2/PFE)
+**The Project**: Comprehensive mobile learning platform for Tunisian learners advancing from A1 to B2 German proficiency. Features adaptive practice algorithms, voice-based interaction, Derja dialect support, and personalized progression tracking.
 
-## Featured Work
+**My Role**: Full-stack developer — architected the backend API, built Flutter mobile UI, integrated voice processing, and implemented adaptive learning algorithms.
 
-### German Learning Mobile App
+**Technical Stack**: Flutter • TypeScript • Express.js • PostgreSQL • Voice API Integration  
+**Key Achievements**:
+- Designed scalable backend architecture handling multi-language content
+- Built intuitive mobile UI with 100+ screens and complex state management
+- Implemented adaptive learning algorithms increasing user retention
+- Production-ready code with proper error handling and logging
 
-A mobile learning app designed for Tunisian learners studying German from A1 to B2, with Derja support, adaptive practice, voice interaction, and personalized progression.
+**Status**: **⭐ FLAGSHIP PROJECT** — Demonstrates full-stack mastery and product thinking.
 
-### Centralized Log Management System
+---
 
-An ELK Stack platform built with Angular, Express.js, Docker, JWT authentication, and multi-tenant architecture for enterprise log analysis workflows.
+### 2️⃣ [Training Management & QR Menu System](https://github.com/MBB2/GestionFormation)
+**The Project**: Complete restaurant management platform with dynamic QR menu generation, staff workflow orchestration, table management, and multi-role dashboards (Admin, Chef, Waiter).
 
-### QR Menu Resto
+**My Role**: Full-stack architect and lead developer — built React frontend with real-time UI updates, REST API backend, and role-based access control.
 
-A restaurant management solution with QR menu generation, staff workflows, table management, and multi-role dashboards.
+**Technical Stack**: React • TypeScript • Express.js • MySQL • Tailwind CSS • Axios • React Router  
+**Key Achievements**:
+- Architected role-based access control system
+- Developed real-time table management dashboard
+- Built responsive UI with Tailwind CSS and Lucide icons
+- Integrated dynamic form validation and error handling
 
-### SMM Ecommerce Platform
+**Status**: **⭐ PRODUCTION-GRADE** — Shows full-stack capability and attention to UX.
 
-A full-stack platform for managing digital service sales with admin tools, authentication, and a clean user experience.
+---
 
-### Gym Fitness App
+### 3️⃣ [E-Book Management & Discovery Platform](https://github.com/MBB2/Ebook)
+**The Project**: Cross-platform e-book discovery, reading, and management application with offline support, local storage, and seamless reading experience.
 
-A mobile fitness product with workout tracking, exercise planning, and user-centered mobile UI.
+**My Role**: Lead developer — built navigation architecture, reading interface, and integrated local persistence layer across iOS, Android, and web.
 
-## Current Focus
+**Technical Stack**: React Native • Expo • TypeScript • SQLite • Async Storage  
+**Key Achievements**:
+- Architected cross-platform app structure using Expo Router
+- Implemented offline-first reading experience with SQLite persistence
+- Built reusable component library for consistent UX
+- Optimized performance for smooth scrolling through large books
 
-- Improving mobile-first product design and UX
-- Building stronger full-stack portfolio projects
-- Growing in scalable backend and system architecture
-- Turning academic and internship work into production-quality case studies
+**Status**: **⭐ CROSS-PLATFORM** — Demonstrates React Native and Expo expertise.
 
-## GitHub Snapshot
+---
+
+### 4️⃣ [Portfolio Website](https://github.com/MBB2/portfolio)
+**The Project**: Professional portfolio website showcasing full-stack and mobile projects with responsive design, project filtering, and optimized performance.
+
+**My Role**: Solo developer — designed and built from concept through deployment on GitHub Pages.
+
+**Technical Stack**: HTML5 • CSS3 • Vanilla JavaScript • Responsive Design • GitHub Pages  
+**Key Achievements**:
+- Responsive design supporting all device sizes
+- Interactive project filtering and smooth animations
+- Optimized performance and SEO
+- Live deployment at https://mbb2.github.io/portfolio/
+
+**Status**: **✅ LIVE** — Direct portfolio link for recruiters.
+
+---
+
+## 📊 GitHub Overview
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=mbb2&show_icons=true&hide_border=true&bg_color=00000000&title_color=22C55E&text_color=CBD5E1&icon_color=38BDF8"
+    src="https://github-readme-stats.vercel.app/api?username=mbb2&show_icons=true&hide_border=true&bg_color=00000000&title_color=22C55E&text_color=CBD5E1&icon_color=38BDF8&include_all_commits=true&hide=prs"
     height="165"
-    alt="GitHub stats for mbb2"
+    alt="GitHub contribution statistics"
   />
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbb2&layout=compact&hide_border=true&bg_color=00000000&title_color=22C55E&text_color=CBD5E1"
     height="165"
-    alt="Top languages for mbb2"
+    alt="Most used programming languages"
   />
 </p>
 
-## Connect
+---
 
-- Portfolio: https://mbb2.github.io/portfolio/
-- GitHub: https://github.com/mbb2
-- Email: khaled2182002@gmail.com
+## 🎯 Current Focus & Growth Areas
+
+- **Backend Architecture**: Building REST APIs with proper separation of concerns and scalability patterns
+- **Production Readiness**: Clean code, comprehensive error handling, logging, and monitoring
+- **Full-Stack Ownership**: Delivering complete features from API design through deployment
+- **System Design**: Microservices concepts, caching strategies, and database optimization
+- **European Tech Stack Alignment**: Mastering industry-standard tools in German and EU markets
+
+---
+
+## 💡 Professional Values
+
+✅ **Code Quality**: I write clean, maintainable, well-documented code following SOLID principles  
+✅ **User-Focused**: Features are designed with actual user workflows and usability in mind  
+✅ **Problem Solving**: I think critically about system design and not just implement requirements  
+✅ **Continuous Learning**: Actively growing in backend architecture, system design, and modern tooling  
+✅ **Collaborative**: I communicate clearly, seek feedback, and work well in team environments  
+
+---
+
+## 🔗 Connect & Explore
+
+| Link | Purpose |
+|------|---------|
+| 🌐 **[Live Portfolio](https://mbb2.github.io/portfolio/)** | See all projects with live demos and descriptions |
+| 💼 **[LinkedIn](https://linkedin.com/in/khaled-saadaoui/)** | Professional network and endorsements |
+| 📧 **[Email](mailto:khaled2182002@gmail.com)** | khaled2182002@gmail.com |
+| 📍 **Location** | Rades, Tunisia • **Open to**: Remote, Germany, Austria, Switzerland, EU |
+| 📱 **Phone** | +216 93 585 045 |
+
+---
+
+## 🎓 Background
+
+- **Master's Degree**: Mobile Development (in progress)
+- **Academic Focus**: Mobile architecture, user-centered design, full-stack systems
+- **Industry Experience**: Internships and freelance projects in full-stack development
+- **Self-Taught**: Continuous learning through documentation, open-source contributions, and practical projects
+
+---
+
+## 📌 Quick Facts
+
+- **Primary Languages**: JavaScript/TypeScript, Dart, Java, PHP
+- **Preferred Frameworks**: React, Angular, Flutter, Spring Boot, Express.js
+- **Database Experience**: PostgreSQL (primary), MySQL, MongoDB, SQLite
+- **Deployment**: GitHub Pages, local Docker environments, basic DevOps
+- **Development Philosophy**: Ship quality code, not just code that works
+- **Communication**: English (fluent), French (fluent), German (learning), Arabic (native)
+
+---
+
+## 🤝 Open to Opportunities
+
+I'm actively seeking:
+- ✅ Full-stack engineering roles (mid-level)
+- ✅ Backend-focused positions
+- ✅ Internships at growth-stage companies
+- ✅ Contract/freelance projects (EU time zones preferred)
+
+**Ideal companies**: Tech-forward organizations in Germany, Switzerland, Austria, Netherlands, and broader EU with focus on code quality, product thinking, and team growth.
+
+---
+
+<p align="center">
+  <em>Last Updated: January 2025 • Always looking to improve and grow • Let's build something great together!</em>
+</p>
