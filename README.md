@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="Khaled Saadaoui - Full-Stack & Mobile Engineer" width="100%" />
+  <img src="./profile-banner.svg" alt="Khaled Saadaoui - Full-Stack & Mobile Engineer" width="100%" />
 </p>
 
 <h1 align="center">Khaled Saadaoui</h1>
