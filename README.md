@@ -2,13 +2,9 @@
   <img src="./assets/profile-banner.svg" alt="Khaled Saadaoui - Full-Stack & Mobile Engineer" width="100%" />
 </p>
 
-<h1 align="center">Khaled Saadaoui — Full‑Stack & Mobile Engineer</h1>
+# Khaled Saadaoui — Full‑Stack & Mobile Engineer
 
-<p align="center">
-  <strong>Building production‑grade web platforms & cross‑platform mobile apps.</strong><br/>
-  Focus: scalable backends, delightful frontends, and high‑quality mobile UX.<br/>
-  <em>Open to roles across Germany & EU — remote or relocating.</em>
-</p>
+Senior‑minded Full‑Stack & Mobile Engineer (3+ years) focused on shipping production‑grade web platforms and cross‑platform mobile apps. Open to roles across Germany & EU — remote or relocating.
 
 <p align="center">
   <a href="https://mbb2.github.io/portfolio/" target="_blank">
@@ -24,57 +20,73 @@
 
 ---
 
-## Quick pitch
+## Recruiter snapshot (10s read)
 
-Senior‑minded Full‑Stack & Mobile Engineer (3+ years) with hands‑on experience shipping React, Angular, Node.js, Spring Boot backends and cross‑platform mobile apps (Flutter / React Native). I design and build production systems with clear APIs, reliable data layers, and performant user interfaces.
-
----
-
-## Selected projects (for recruiters — 10s read)
-
-- **PFE — German Language Learning Mobile App** (Flagship)
-  - Cross‑platform mobile app + backend, voice tutoring, adaptive practice, multi‑language content. Tech: Flutter, TypeScript, Express, PostgreSQL. https://github.com/MBB2/PFE
-
-- **portfolio — Personal Website (Live)**
-  - Professional single‑page portfolio with demos and deployment on GitHub Pages. Live: https://mbb2.github.io/portfolio/ https://github.com/MBB2/portfolio
-
-- **Ebook / ebookApp — Cross‑platform E‑book Reader**
-  - Offline reading, persistence, and reusable UI components. Tech: React Native / Expo, SQLite. https://github.com/MBB2/Ebook
-
-- **GestionFormation — Training & QR Menu System**
-  - Full‑stack restaurant/management platform with role‑based access and real‑time UI. Tech: React, Express, MySQL. https://github.com/MBB2/GestionFormation
-
----
-
-## Core technologies
-
-Frontend: React, Angular, TypeScript
-
-Backend: Node.js, Express, Java (Spring Boot), PostgreSQL
-
-Mobile: Flutter, React Native (Expo)
-
-Tools: Docker, Git, CI/CD basics, REST/OpenAPI
-
----
-
-## What I bring
-
-- Production focus: testing, error handling, logging, and deployable code
-- Product thinking: feature design with UX and performance in mind
-- Collaboration: clear communication, code reviews, and mentoring
+- Role: Full‑Stack & Mobile Engineer — React, Angular, Node.js, Flutter
+- Location: Germany & EU (actively applying / open to relocation)
+- Availability: Open to full‑time & contract roles
 - Languages: English (fluent), French (fluent), Arabic (native), German (learning)
 
 ---
 
-## How to reach me
+## Quick overview — what I build
 
-- Portfolio: https://mbb2.github.io/portfolio/
+I build production‑ready single‑page web apps, backend services, and cross‑platform mobile apps with an emphasis on clean architecture, testing, and maintainability.
+
+**Core technologies:** TypeScript, JavaScript, Angular, React, Node.js (Express), Java (Spring), Flutter, React Native (Expo), PostgreSQL, Docker
+
+---
+
+## Selected projects (curated for recruiters)
+
+- PFE — German Language Learning Mobile App (Flagship)
+  - Cross‑platform mobile app with a backend, voice tutoring, adaptive practice, and multi‑language content. Tech: Flutter, TypeScript, Express, PostgreSQL. Repo: https://github.com/MBB2/PFE
+
+- portfolio — Personal Website (Live)
+  - Professional portfolio, demos and deployment on GitHub Pages. Live: https://mbb2.github.io/portfolio/ Repo: https://github.com/MBB2/portfolio
+
+- Ebook / ebookApp — Cross‑platform E‑book Reader
+  - Offline reading, persistence, reusable UI components. Tech: React Native / Expo, SQLite. Repo: https://github.com/MBB2/Ebook and https://github.com/MBB2/ebookApp
+
+- GestionFormation — Training & QR Menu System
+  - Full‑stack platform with role‑based access and realtime UI. Tech: React, Express, MySQL. Repo: https://github.com/MBB2/GestionFormation
+
+- NewsApplication / Task_Manager / sensorapp — Android / Java projects
+  - Mobile prototypes and coursework demonstrating native Android skills. Repos: https://github.com/MBB2/NewsApplication, https://github.com/MBB2/Task_Manager, https://github.com/MBB2/sensorapp
+
+---
+
+## How I make code production‑ready
+
+- Clear README and setup instructions for each repo
+- Environment and deployment notes (Docker / Docker Compose where applicable)
+- Automated tests (unit & e2e) and CI workflows where present
+- Architecture notes and module boundaries documented (ARCHITECTURE.md)
+- Meaningful commit messages and small PRs
+
+---
+
+## How to evaluate my work (recommended quick checks)
+
+1. Open the project README — it should explain how to run locally and list core dependencies.
+2. Check src/ for clear folder separation (components / services / api / models).
+3. Look for tests (spec, __tests__) and CI configuration (.github/workflows).
+4. Review architecture docs or inline module README files for design decisions.
+
+---
+
+## What I’m looking for
+
+Engineering roles in backend/frontend/full‑stack or mobile engineering. Prefer teams that value product focus, testing, and mentorship. Open to remote and Europe‑based roles.
+
+---
+
+## Contact & links
+
+- Portfolio (live): https://mbb2.github.io/portfolio/
 - LinkedIn: https://linkedin.com/in/khaled-saadaoui/
 - Email: khaled2182002@gmail.com
 
 ---
 
-<p align="center">
-  <em>Profile last updated: July 2026 — actively looking for full‑time & contract opportunities in Germany & Europe.</em>
-</p>
+*Profile last updated: July 2026 — actively looking for opportunities in Germany & Europe.*
